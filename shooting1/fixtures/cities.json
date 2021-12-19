@@ -1,0 +1,58 @@
+[
+{
+    "model": "shooting1.city",
+    "pk": 17,
+    "fields": {
+        "name": "Москва"
+    }
+},
+{
+    "model": "shooting1.city",
+    "pk": 18,
+    "fields": {
+        "name": "Омск"
+    }
+},
+{
+    "model": "shooting1.city",
+    "pk": 19,
+    "fields": {
+        "name": "Спб"
+    }
+},
+{
+    "model": "shooting1.city",
+    "pk": 20,
+    "fields": {
+        "name": "Ростов"
+    }
+},
+{
+    "model": "shooting1.city",
+    "pk": 21,
+    "fields": {
+        "name": "Новосибирск"
+    }
+},
+{
+    "model": "shooting1.city",
+    "pk": 22,
+    "fields": {
+        "name": "Ижевск"
+    }
+},
+{
+    "model": "shooting1.city",
+    "pk": 23,
+    "fields": {
+        "name": "Тула"
+    }
+},
+{
+    "model": "shooting1.city",
+    "pk": 24,
+    "fields": {
+        "name": "Томск"
+    }
+}
+]

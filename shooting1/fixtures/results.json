@@ -1,0 +1,2730 @@
+[
+{
+    "model": "shooting1.result",
+    "pk": 495,
+    "fields": {
+        "shooter": 495,
+        "score": 273
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 496,
+    "fields": {
+        "shooter": 496,
+        "score": 380
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 497,
+    "fields": {
+        "shooter": 497,
+        "score": 219
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 499,
+    "fields": {
+        "shooter": 499,
+        "score": 357
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 501,
+    "fields": {
+        "shooter": 501,
+        "score": 329
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 502,
+    "fields": {
+        "shooter": 502,
+        "score": 303
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 503,
+    "fields": {
+        "shooter": 503,
+        "score": 252
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 504,
+    "fields": {
+        "shooter": 504,
+        "score": 229
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 505,
+    "fields": {
+        "shooter": 505,
+        "score": 346
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 506,
+    "fields": {
+        "shooter": 506,
+        "score": 273
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 508,
+    "fields": {
+        "shooter": 508,
+        "score": 232
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 509,
+    "fields": {
+        "shooter": 509,
+        "score": 314
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 510,
+    "fields": {
+        "shooter": 510,
+        "score": 213
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 511,
+    "fields": {
+        "shooter": 511,
+        "score": 322
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 512,
+    "fields": {
+        "shooter": 512,
+        "score": 283
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 516,
+    "fields": {
+        "shooter": 516,
+        "score": 268
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 517,
+    "fields": {
+        "shooter": 517,
+        "score": 267
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 518,
+    "fields": {
+        "shooter": 518,
+        "score": 263
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 519,
+    "fields": {
+        "shooter": 519,
+        "score": 313
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 520,
+    "fields": {
+        "shooter": 520,
+        "score": 210
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 521,
+    "fields": {
+        "shooter": 521,
+        "score": 356
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 523,
+    "fields": {
+        "shooter": 523,
+        "score": 273
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 526,
+    "fields": {
+        "shooter": 526,
+        "score": 265
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 528,
+    "fields": {
+        "shooter": 528,
+        "score": 267
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 530,
+    "fields": {
+        "shooter": 530,
+        "score": 294
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 531,
+    "fields": {
+        "shooter": 531,
+        "score": 240
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 532,
+    "fields": {
+        "shooter": 532,
+        "score": 228
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 533,
+    "fields": {
+        "shooter": 533,
+        "score": 266
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 534,
+    "fields": {
+        "shooter": 534,
+        "score": 338
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 535,
+    "fields": {
+        "shooter": 535,
+        "score": 343
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 538,
+    "fields": {
+        "shooter": 538,
+        "score": 246
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 539,
+    "fields": {
+        "shooter": 539,
+        "score": 243
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 540,
+    "fields": {
+        "shooter": 540,
+        "score": 284
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 542,
+    "fields": {
+        "shooter": 542,
+        "score": 302
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 543,
+    "fields": {
+        "shooter": 543,
+        "score": 267
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 544,
+    "fields": {
+        "shooter": 544,
+        "score": 360
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 545,
+    "fields": {
+        "shooter": 545,
+        "score": 236
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 546,
+    "fields": {
+        "shooter": 546,
+        "score": 268
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 547,
+    "fields": {
+        "shooter": 547,
+        "score": 288
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 548,
+    "fields": {
+        "shooter": 548,
+        "score": 246
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 550,
+    "fields": {
+        "shooter": 550,
+        "score": 277
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 551,
+    "fields": {
+        "shooter": 551,
+        "score": 238
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 552,
+    "fields": {
+        "shooter": 552,
+        "score": 221
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 555,
+    "fields": {
+        "shooter": 555,
+        "score": 363
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 556,
+    "fields": {
+        "shooter": 556,
+        "score": 339
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 557,
+    "fields": {
+        "shooter": 557,
+        "score": 380
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 560,
+    "fields": {
+        "shooter": 560,
+        "score": 319
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 561,
+    "fields": {
+        "shooter": 561,
+        "score": 315
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 562,
+    "fields": {
+        "shooter": 562,
+        "score": 241
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 563,
+    "fields": {
+        "shooter": 563,
+        "score": 236
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 565,
+    "fields": {
+        "shooter": 565,
+        "score": 270
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 567,
+    "fields": {
+        "shooter": 567,
+        "score": 243
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 569,
+    "fields": {
+        "shooter": 569,
+        "score": 367
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 571,
+    "fields": {
+        "shooter": 571,
+        "score": 342
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 572,
+    "fields": {
+        "shooter": 572,
+        "score": 277
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 573,
+    "fields": {
+        "shooter": 573,
+        "score": 322
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 576,
+    "fields": {
+        "shooter": 576,
+        "score": 212
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 577,
+    "fields": {
+        "shooter": 577,
+        "score": 378
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 578,
+    "fields": {
+        "shooter": 578,
+        "score": 321
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 579,
+    "fields": {
+        "shooter": 579,
+        "score": 244
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 580,
+    "fields": {
+        "shooter": 580,
+        "score": 337
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 581,
+    "fields": {
+        "shooter": 581,
+        "score": 366
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 582,
+    "fields": {
+        "shooter": 582,
+        "score": 260
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 585,
+    "fields": {
+        "shooter": 585,
+        "score": 323
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 588,
+    "fields": {
+        "shooter": 588,
+        "score": 238
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 589,
+    "fields": {
+        "shooter": 589,
+        "score": 343
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 590,
+    "fields": {
+        "shooter": 590,
+        "score": 330
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 591,
+    "fields": {
+        "shooter": 591,
+        "score": 313
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 592,
+    "fields": {
+        "shooter": 592,
+        "score": 386
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 593,
+    "fields": {
+        "shooter": 593,
+        "score": 324
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 594,
+    "fields": {
+        "shooter": 594,
+        "score": 275
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 595,
+    "fields": {
+        "shooter": 595,
+        "score": 331
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 598,
+    "fields": {
+        "shooter": 598,
+        "score": 366
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 601,
+    "fields": {
+        "shooter": 601,
+        "score": 319
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 605,
+    "fields": {
+        "shooter": 605,
+        "score": 265
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 606,
+    "fields": {
+        "shooter": 606,
+        "score": 309
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 607,
+    "fields": {
+        "shooter": 607,
+        "score": 215
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 608,
+    "fields": {
+        "shooter": 608,
+        "score": 371
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 609,
+    "fields": {
+        "shooter": 609,
+        "score": 285
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 610,
+    "fields": {
+        "shooter": 610,
+        "score": 352
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 612,
+    "fields": {
+        "shooter": 612,
+        "score": 377
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 613,
+    "fields": {
+        "shooter": 613,
+        "score": 330
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 614,
+    "fields": {
+        "shooter": 614,
+        "score": 224
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 615,
+    "fields": {
+        "shooter": 615,
+        "score": 297
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 619,
+    "fields": {
+        "shooter": 619,
+        "score": 260
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 620,
+    "fields": {
+        "shooter": 620,
+        "score": 325
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 621,
+    "fields": {
+        "shooter": 621,
+        "score": 235
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 622,
+    "fields": {
+        "shooter": 622,
+        "score": 228
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 623,
+    "fields": {
+        "shooter": 623,
+        "score": 239
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 625,
+    "fields": {
+        "shooter": 625,
+        "score": 364
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 626,
+    "fields": {
+        "shooter": 626,
+        "score": 295
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 627,
+    "fields": {
+        "shooter": 627,
+        "score": 249
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 628,
+    "fields": {
+        "shooter": 628,
+        "score": 224
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 629,
+    "fields": {
+        "shooter": 629,
+        "score": 358
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 632,
+    "fields": {
+        "shooter": 632,
+        "score": 213
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 633,
+    "fields": {
+        "shooter": 633,
+        "score": 264
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 635,
+    "fields": {
+        "shooter": 635,
+        "score": 290
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 636,
+    "fields": {
+        "shooter": 636,
+        "score": 342
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 641,
+    "fields": {
+        "shooter": 641,
+        "score": 256
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 643,
+    "fields": {
+        "shooter": 643,
+        "score": 400
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 646,
+    "fields": {
+        "shooter": 646,
+        "score": 239
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 648,
+    "fields": {
+        "shooter": 648,
+        "score": 236
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 651,
+    "fields": {
+        "shooter": 651,
+        "score": 288
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 652,
+    "fields": {
+        "shooter": 652,
+        "score": 335
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 653,
+    "fields": {
+        "shooter": 653,
+        "score": 343
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 654,
+    "fields": {
+        "shooter": 654,
+        "score": 374
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 655,
+    "fields": {
+        "shooter": 655,
+        "score": 330
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 656,
+    "fields": {
+        "shooter": 656,
+        "score": 321
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 657,
+    "fields": {
+        "shooter": 657,
+        "score": 373
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 658,
+    "fields": {
+        "shooter": 658,
+        "score": 350
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 659,
+    "fields": {
+        "shooter": 659,
+        "score": 361
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 660,
+    "fields": {
+        "shooter": 660,
+        "score": 243
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 661,
+    "fields": {
+        "shooter": 661,
+        "score": 235
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 662,
+    "fields": {
+        "shooter": 662,
+        "score": 280
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 663,
+    "fields": {
+        "shooter": 663,
+        "score": 375
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 664,
+    "fields": {
+        "shooter": 664,
+        "score": 394
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 665,
+    "fields": {
+        "shooter": 665,
+        "score": 289
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 666,
+    "fields": {
+        "shooter": 666,
+        "score": 270
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 667,
+    "fields": {
+        "shooter": 667,
+        "score": 215
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 669,
+    "fields": {
+        "shooter": 669,
+        "score": 217
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 670,
+    "fields": {
+        "shooter": 670,
+        "score": 396
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 671,
+    "fields": {
+        "shooter": 671,
+        "score": 329
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 672,
+    "fields": {
+        "shooter": 672,
+        "score": 309
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 673,
+    "fields": {
+        "shooter": 673,
+        "score": 312
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 675,
+    "fields": {
+        "shooter": 675,
+        "score": 376
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 677,
+    "fields": {
+        "shooter": 677,
+        "score": 352
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 678,
+    "fields": {
+        "shooter": 678,
+        "score": 337
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 679,
+    "fields": {
+        "shooter": 679,
+        "score": 328
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 680,
+    "fields": {
+        "shooter": 680,
+        "score": 328
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 682,
+    "fields": {
+        "shooter": 682,
+        "score": 352
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 683,
+    "fields": {
+        "shooter": 683,
+        "score": 318
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 684,
+    "fields": {
+        "shooter": 684,
+        "score": 236
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 685,
+    "fields": {
+        "shooter": 685,
+        "score": 210
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 686,
+    "fields": {
+        "shooter": 686,
+        "score": 383
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 687,
+    "fields": {
+        "shooter": 687,
+        "score": 338
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 695,
+    "fields": {
+        "shooter": 695,
+        "score": 337
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 696,
+    "fields": {
+        "shooter": 696,
+        "score": 365
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 697,
+    "fields": {
+        "shooter": 697,
+        "score": 289
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 700,
+    "fields": {
+        "shooter": 700,
+        "score": 366
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 701,
+    "fields": {
+        "shooter": 701,
+        "score": 333
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 702,
+    "fields": {
+        "shooter": 702,
+        "score": 377
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 704,
+    "fields": {
+        "shooter": 704,
+        "score": 321
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 705,
+    "fields": {
+        "shooter": 705,
+        "score": 292
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 706,
+    "fields": {
+        "shooter": 706,
+        "score": 360
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 707,
+    "fields": {
+        "shooter": 707,
+        "score": 332
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 708,
+    "fields": {
+        "shooter": 708,
+        "score": 272
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 711,
+    "fields": {
+        "shooter": 711,
+        "score": 227
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 712,
+    "fields": {
+        "shooter": 712,
+        "score": 287
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 714,
+    "fields": {
+        "shooter": 714,
+        "score": 217
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 715,
+    "fields": {
+        "shooter": 715,
+        "score": 356
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 717,
+    "fields": {
+        "shooter": 717,
+        "score": 292
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 718,
+    "fields": {
+        "shooter": 718,
+        "score": 292
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 719,
+    "fields": {
+        "shooter": 719,
+        "score": 253
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 723,
+    "fields": {
+        "shooter": 723,
+        "score": 263
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 727,
+    "fields": {
+        "shooter": 727,
+        "score": 256
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 728,
+    "fields": {
+        "shooter": 728,
+        "score": 362
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 731,
+    "fields": {
+        "shooter": 731,
+        "score": 229
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 732,
+    "fields": {
+        "shooter": 732,
+        "score": 220
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 735,
+    "fields": {
+        "shooter": 735,
+        "score": 276
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 736,
+    "fields": {
+        "shooter": 736,
+        "score": 295
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 737,
+    "fields": {
+        "shooter": 737,
+        "score": 345
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 739,
+    "fields": {
+        "shooter": 739,
+        "score": 334
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 741,
+    "fields": {
+        "shooter": 741,
+        "score": 259
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 743,
+    "fields": {
+        "shooter": 743,
+        "score": 368
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 744,
+    "fields": {
+        "shooter": 744,
+        "score": 309
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 746,
+    "fields": {
+        "shooter": 746,
+        "score": 288
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 747,
+    "fields": {
+        "shooter": 747,
+        "score": 280
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 748,
+    "fields": {
+        "shooter": 748,
+        "score": 230
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 749,
+    "fields": {
+        "shooter": 749,
+        "score": 252
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 750,
+    "fields": {
+        "shooter": 750,
+        "score": 256
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 751,
+    "fields": {
+        "shooter": 751,
+        "score": 301
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 752,
+    "fields": {
+        "shooter": 752,
+        "score": 377
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 753,
+    "fields": {
+        "shooter": 753,
+        "score": 300
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 754,
+    "fields": {
+        "shooter": 754,
+        "score": 375
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 756,
+    "fields": {
+        "shooter": 756,
+        "score": 352
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 757,
+    "fields": {
+        "shooter": 757,
+        "score": 236
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 759,
+    "fields": {
+        "shooter": 759,
+        "score": 221
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 760,
+    "fields": {
+        "shooter": 760,
+        "score": 241
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 761,
+    "fields": {
+        "shooter": 761,
+        "score": 217
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 763,
+    "fields": {
+        "shooter": 763,
+        "score": 378
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 764,
+    "fields": {
+        "shooter": 764,
+        "score": 298
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 766,
+    "fields": {
+        "shooter": 766,
+        "score": 247
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 768,
+    "fields": {
+        "shooter": 768,
+        "score": 249
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 769,
+    "fields": {
+        "shooter": 769,
+        "score": 303
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 770,
+    "fields": {
+        "shooter": 770,
+        "score": 287
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 771,
+    "fields": {
+        "shooter": 771,
+        "score": 246
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 772,
+    "fields": {
+        "shooter": 772,
+        "score": 332
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 774,
+    "fields": {
+        "shooter": 774,
+        "score": 216
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 776,
+    "fields": {
+        "shooter": 776,
+        "score": 322
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 777,
+    "fields": {
+        "shooter": 777,
+        "score": 268
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 778,
+    "fields": {
+        "shooter": 778,
+        "score": 258
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 779,
+    "fields": {
+        "shooter": 779,
+        "score": 318
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 780,
+    "fields": {
+        "shooter": 780,
+        "score": 400
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 781,
+    "fields": {
+        "shooter": 781,
+        "score": 278
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 782,
+    "fields": {
+        "shooter": 782,
+        "score": 322
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 783,
+    "fields": {
+        "shooter": 783,
+        "score": 272
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 784,
+    "fields": {
+        "shooter": 784,
+        "score": 368
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 785,
+    "fields": {
+        "shooter": 785,
+        "score": 262
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 787,
+    "fields": {
+        "shooter": 787,
+        "score": 328
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 789,
+    "fields": {
+        "shooter": 789,
+        "score": 310
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 790,
+    "fields": {
+        "shooter": 790,
+        "score": 297
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 793,
+    "fields": {
+        "shooter": 793,
+        "score": 333
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 794,
+    "fields": {
+        "shooter": 794,
+        "score": 316
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 795,
+    "fields": {
+        "shooter": 795,
+        "score": 231
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 796,
+    "fields": {
+        "shooter": 796,
+        "score": 372
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 798,
+    "fields": {
+        "shooter": 798,
+        "score": 213
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 799,
+    "fields": {
+        "shooter": 799,
+        "score": 269
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 801,
+    "fields": {
+        "shooter": 801,
+        "score": 284
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 804,
+    "fields": {
+        "shooter": 804,
+        "score": 215
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 807,
+    "fields": {
+        "shooter": 807,
+        "score": 210
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 808,
+    "fields": {
+        "shooter": 808,
+        "score": 262
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 811,
+    "fields": {
+        "shooter": 811,
+        "score": 266
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 812,
+    "fields": {
+        "shooter": 812,
+        "score": 216
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 813,
+    "fields": {
+        "shooter": 813,
+        "score": 380
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 814,
+    "fields": {
+        "shooter": 814,
+        "score": 377
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 815,
+    "fields": {
+        "shooter": 815,
+        "score": 347
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 816,
+    "fields": {
+        "shooter": 816,
+        "score": 212
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 817,
+    "fields": {
+        "shooter": 817,
+        "score": 328
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 818,
+    "fields": {
+        "shooter": 818,
+        "score": 371
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 819,
+    "fields": {
+        "shooter": 819,
+        "score": 268
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 820,
+    "fields": {
+        "shooter": 820,
+        "score": 258
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 821,
+    "fields": {
+        "shooter": 821,
+        "score": 292
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 824,
+    "fields": {
+        "shooter": 824,
+        "score": 311
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 826,
+    "fields": {
+        "shooter": 826,
+        "score": 349
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 827,
+    "fields": {
+        "shooter": 827,
+        "score": 344
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 828,
+    "fields": {
+        "shooter": 828,
+        "score": 296
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 829,
+    "fields": {
+        "shooter": 829,
+        "score": 259
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 831,
+    "fields": {
+        "shooter": 831,
+        "score": 328
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 833,
+    "fields": {
+        "shooter": 833,
+        "score": 305
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 834,
+    "fields": {
+        "shooter": 834,
+        "score": 383
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 835,
+    "fields": {
+        "shooter": 835,
+        "score": 240
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 836,
+    "fields": {
+        "shooter": 836,
+        "score": 331
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 837,
+    "fields": {
+        "shooter": 837,
+        "score": 372
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 839,
+    "fields": {
+        "shooter": 839,
+        "score": 331
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 841,
+    "fields": {
+        "shooter": 841,
+        "score": 346
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 842,
+    "fields": {
+        "shooter": 842,
+        "score": 254
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 843,
+    "fields": {
+        "shooter": 843,
+        "score": 335
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 844,
+    "fields": {
+        "shooter": 844,
+        "score": 260
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 845,
+    "fields": {
+        "shooter": 845,
+        "score": 293
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 846,
+    "fields": {
+        "shooter": 846,
+        "score": 376
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 848,
+    "fields": {
+        "shooter": 848,
+        "score": 320
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 849,
+    "fields": {
+        "shooter": 849,
+        "score": 380
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 850,
+    "fields": {
+        "shooter": 850,
+        "score": 331
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 851,
+    "fields": {
+        "shooter": 851,
+        "score": 283
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 852,
+    "fields": {
+        "shooter": 852,
+        "score": 236
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 854,
+    "fields": {
+        "shooter": 854,
+        "score": 311
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 855,
+    "fields": {
+        "shooter": 855,
+        "score": 273
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 857,
+    "fields": {
+        "shooter": 857,
+        "score": 252
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 858,
+    "fields": {
+        "shooter": 858,
+        "score": 350
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 860,
+    "fields": {
+        "shooter": 860,
+        "score": 345
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 861,
+    "fields": {
+        "shooter": 861,
+        "score": 280
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 865,
+    "fields": {
+        "shooter": 865,
+        "score": 310
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 866,
+    "fields": {
+        "shooter": 866,
+        "score": 300
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 867,
+    "fields": {
+        "shooter": 867,
+        "score": 311
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 868,
+    "fields": {
+        "shooter": 868,
+        "score": 295
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 870,
+    "fields": {
+        "shooter": 870,
+        "score": 332
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 871,
+    "fields": {
+        "shooter": 871,
+        "score": 318
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 873,
+    "fields": {
+        "shooter": 873,
+        "score": 285
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 875,
+    "fields": {
+        "shooter": 875,
+        "score": 319
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 876,
+    "fields": {
+        "shooter": 876,
+        "score": 222
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 877,
+    "fields": {
+        "shooter": 877,
+        "score": 281
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 878,
+    "fields": {
+        "shooter": 878,
+        "score": 385
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 879,
+    "fields": {
+        "shooter": 879,
+        "score": 230
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 880,
+    "fields": {
+        "shooter": 880,
+        "score": 357
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 881,
+    "fields": {
+        "shooter": 881,
+        "score": 373
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 884,
+    "fields": {
+        "shooter": 884,
+        "score": 357
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 885,
+    "fields": {
+        "shooter": 885,
+        "score": 350
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 886,
+    "fields": {
+        "shooter": 886,
+        "score": 369
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 888,
+    "fields": {
+        "shooter": 888,
+        "score": 289
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 890,
+    "fields": {
+        "shooter": 890,
+        "score": 210
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 892,
+    "fields": {
+        "shooter": 892,
+        "score": 294
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 893,
+    "fields": {
+        "shooter": 893,
+        "score": 279
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 894,
+    "fields": {
+        "shooter": 894,
+        "score": 321
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 895,
+    "fields": {
+        "shooter": 895,
+        "score": 231
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 896,
+    "fields": {
+        "shooter": 896,
+        "score": 211
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 898,
+    "fields": {
+        "shooter": 898,
+        "score": 234
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 899,
+    "fields": {
+        "shooter": 899,
+        "score": 275
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 901,
+    "fields": {
+        "shooter": 901,
+        "score": 238
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 903,
+    "fields": {
+        "shooter": 903,
+        "score": 344
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 904,
+    "fields": {
+        "shooter": 904,
+        "score": 252
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 906,
+    "fields": {
+        "shooter": 906,
+        "score": 220
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 907,
+    "fields": {
+        "shooter": 907,
+        "score": 262
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 908,
+    "fields": {
+        "shooter": 908,
+        "score": 222
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 909,
+    "fields": {
+        "shooter": 909,
+        "score": 249
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 911,
+    "fields": {
+        "shooter": 911,
+        "score": 361
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 912,
+    "fields": {
+        "shooter": 912,
+        "score": 336
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 914,
+    "fields": {
+        "shooter": 914,
+        "score": 367
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 915,
+    "fields": {
+        "shooter": 915,
+        "score": 367
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 917,
+    "fields": {
+        "shooter": 917,
+        "score": 233
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 918,
+    "fields": {
+        "shooter": 918,
+        "score": 219
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 919,
+    "fields": {
+        "shooter": 919,
+        "score": 248
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 920,
+    "fields": {
+        "shooter": 920,
+        "score": 259
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 923,
+    "fields": {
+        "shooter": 923,
+        "score": 221
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 924,
+    "fields": {
+        "shooter": 924,
+        "score": 297
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 925,
+    "fields": {
+        "shooter": 925,
+        "score": 230
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 926,
+    "fields": {
+        "shooter": 926,
+        "score": 294
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 927,
+    "fields": {
+        "shooter": 927,
+        "score": 239
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 928,
+    "fields": {
+        "shooter": 928,
+        "score": 254
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 929,
+    "fields": {
+        "shooter": 929,
+        "score": 283
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 930,
+    "fields": {
+        "shooter": 930,
+        "score": 357
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 931,
+    "fields": {
+        "shooter": 931,
+        "score": 290
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 932,
+    "fields": {
+        "shooter": 932,
+        "score": 318
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 933,
+    "fields": {
+        "shooter": 933,
+        "score": 346
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 934,
+    "fields": {
+        "shooter": 934,
+        "score": 291
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 937,
+    "fields": {
+        "shooter": 937,
+        "score": 278
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 941,
+    "fields": {
+        "shooter": 941,
+        "score": 292
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 942,
+    "fields": {
+        "shooter": 942,
+        "score": 290
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 943,
+    "fields": {
+        "shooter": 943,
+        "score": 342
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 944,
+    "fields": {
+        "shooter": 944,
+        "score": 361
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 945,
+    "fields": {
+        "shooter": 945,
+        "score": 243
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 946,
+    "fields": {
+        "shooter": 946,
+        "score": 221
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 947,
+    "fields": {
+        "shooter": 947,
+        "score": 344
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 949,
+    "fields": {
+        "shooter": 949,
+        "score": 396
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 950,
+    "fields": {
+        "shooter": 950,
+        "score": 343
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 955,
+    "fields": {
+        "shooter": 955,
+        "score": 356
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 956,
+    "fields": {
+        "shooter": 956,
+        "score": 321
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 957,
+    "fields": {
+        "shooter": 957,
+        "score": 376
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 958,
+    "fields": {
+        "shooter": 958,
+        "score": 270
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 959,
+    "fields": {
+        "shooter": 959,
+        "score": 278
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 962,
+    "fields": {
+        "shooter": 962,
+        "score": 362
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 963,
+    "fields": {
+        "shooter": 963,
+        "score": 335
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 965,
+    "fields": {
+        "shooter": 965,
+        "score": 358
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 966,
+    "fields": {
+        "shooter": 966,
+        "score": 243
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 967,
+    "fields": {
+        "shooter": 967,
+        "score": 241
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 968,
+    "fields": {
+        "shooter": 968,
+        "score": 311
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 969,
+    "fields": {
+        "shooter": 969,
+        "score": 329
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 970,
+    "fields": {
+        "shooter": 970,
+        "score": 354
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 972,
+    "fields": {
+        "shooter": 972,
+        "score": 360
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 973,
+    "fields": {
+        "shooter": 973,
+        "score": 279
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 974,
+    "fields": {
+        "shooter": 974,
+        "score": 262
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 975,
+    "fields": {
+        "shooter": 975,
+        "score": 273
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 976,
+    "fields": {
+        "shooter": 976,
+        "score": 326
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 977,
+    "fields": {
+        "shooter": 977,
+        "score": 339
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 979,
+    "fields": {
+        "shooter": 979,
+        "score": 386
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 980,
+    "fields": {
+        "shooter": 980,
+        "score": 321
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 981,
+    "fields": {
+        "shooter": 981,
+        "score": 270
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 982,
+    "fields": {
+        "shooter": 982,
+        "score": 256
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 983,
+    "fields": {
+        "shooter": 983,
+        "score": 284
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 984,
+    "fields": {
+        "shooter": 984,
+        "score": 216
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 985,
+    "fields": {
+        "shooter": 985,
+        "score": 348
+    }
+},
+{
+    "model": "shooting1.result",
+    "pk": 986,
+    "fields": {
+        "shooter": 986,
+        "score": 379
+    }
+}
+]

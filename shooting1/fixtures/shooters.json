@@ -1,0 +1,3946 @@
+[
+{
+    "model": "shooting1.shooter",
+    "pk": 494,
+    "fields": {
+        "name": "Авдеев Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 495,
+    "fields": {
+        "name": "Агапов Арсений",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 496,
+    "fields": {
+        "name": "Агафонов Давид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 497,
+    "fields": {
+        "name": "Агеев Тимур",
+        "city": 18
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 498,
+    "fields": {
+        "name": "Акимов Евгений",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 499,
+    "fields": {
+        "name": "Акимов Тимофей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 500,
+    "fields": {
+        "name": "Александров Виктор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 501,
+    "fields": {
+        "name": "Александров Демьян",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 502,
+    "fields": {
+        "name": "Александров Платон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 503,
+    "fields": {
+        "name": "Александров Степан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 504,
+    "fields": {
+        "name": "Александров Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 505,
+    "fields": {
+        "name": "Алексеев Андрей",
+        "city": 19
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 506,
+    "fields": {
+        "name": "Алексеев Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 507,
+    "fields": {
+        "name": "Алексеев Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 508,
+    "fields": {
+        "name": "Алексеев Николай",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 509,
+    "fields": {
+        "name": "Алексеев Савелий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 510,
+    "fields": {
+        "name": "Андреев Ибрагим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 511,
+    "fields": {
+        "name": "Андреев Павел",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 512,
+    "fields": {
+        "name": "Андрианов Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 513,
+    "fields": {
+        "name": "Анисимов Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 514,
+    "fields": {
+        "name": "Анисимов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 515,
+    "fields": {
+        "name": "Анохин Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 516,
+    "fields": {
+        "name": "Антонов Антон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 517,
+    "fields": {
+        "name": "Артемов Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 518,
+    "fields": {
+        "name": "Архипов Ярослав",
+        "city": 19
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 519,
+    "fields": {
+        "name": "Афанасьев Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 520,
+    "fields": {
+        "name": "Афанасьев Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 521,
+    "fields": {
+        "name": "Афанасьев Фёдор",
+        "city": 20
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 522,
+    "fields": {
+        "name": "Афанасьев Филипп",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 523,
+    "fields": {
+        "name": "Баженов Дмитрий",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 524,
+    "fields": {
+        "name": "Балашов Даниэль",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 525,
+    "fields": {
+        "name": "Баранов Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 526,
+    "fields": {
+        "name": "Баранов Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 527,
+    "fields": {
+        "name": "Барсуков Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 528,
+    "fields": {
+        "name": "Басов Мирослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 529,
+    "fields": {
+        "name": "Белов Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 530,
+    "fields": {
+        "name": "Белов Григорий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 531,
+    "fields": {
+        "name": "Белов Иван",
+        "city": 18
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 532,
+    "fields": {
+        "name": "Белов Лев",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 533,
+    "fields": {
+        "name": "Белов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 534,
+    "fields": {
+        "name": "Белов Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 535,
+    "fields": {
+        "name": "Белоусов Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 536,
+    "fields": {
+        "name": "Беляев Арсений",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 537,
+    "fields": {
+        "name": "Беляев Денис",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 538,
+    "fields": {
+        "name": "Беляев Степан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 539,
+    "fields": {
+        "name": "Беляков Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 540,
+    "fields": {
+        "name": "Беляков Эмиль",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 541,
+    "fields": {
+        "name": "Березин Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 542,
+    "fields": {
+        "name": "Березин Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 543,
+    "fields": {
+        "name": "Бессонов Максим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 544,
+    "fields": {
+        "name": "Бирюков Евгений",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 545,
+    "fields": {
+        "name": "Бирюков Роман",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 546,
+    "fields": {
+        "name": "Блинов Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 547,
+    "fields": {
+        "name": "Бобров Филипп",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 548,
+    "fields": {
+        "name": "Борисов Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 549,
+    "fields": {
+        "name": "Борисов Денис",
+        "city": 19
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 550,
+    "fields": {
+        "name": "Борисов Кирилл",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 551,
+    "fields": {
+        "name": "Бородин Егор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 552,
+    "fields": {
+        "name": "Буров Арсений",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 553,
+    "fields": {
+        "name": "Буров Артур",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 554,
+    "fields": {
+        "name": "Быков Макар",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 555,
+    "fields": {
+        "name": "Васильев Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 556,
+    "fields": {
+        "name": "Васильев Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 557,
+    "fields": {
+        "name": "Васильев Даниил",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 558,
+    "fields": {
+        "name": "Васильев Евгений",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 559,
+    "fields": {
+        "name": "Васильев Тимофей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 560,
+    "fields": {
+        "name": "Вдовин Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 561,
+    "fields": {
+        "name": "Вдовин Василий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 562,
+    "fields": {
+        "name": "Вдовин Никита",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 563,
+    "fields": {
+        "name": "Виноградов Макар",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 564,
+    "fields": {
+        "name": "Вишневский Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 565,
+    "fields": {
+        "name": "Вишневский Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 566,
+    "fields": {
+        "name": "Владимиров Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 567,
+    "fields": {
+        "name": "Власов Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 568,
+    "fields": {
+        "name": "Власов Степан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 569,
+    "fields": {
+        "name": "Волков Арсений",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 570,
+    "fields": {
+        "name": "Волков Вячеслав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 571,
+    "fields": {
+        "name": "Волков Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 572,
+    "fields": {
+        "name": "Волков Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 573,
+    "fields": {
+        "name": "Волков Кирилл",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 574,
+    "fields": {
+        "name": "Волков Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 575,
+    "fields": {
+        "name": "Волков Павел",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 576,
+    "fields": {
+        "name": "Воробьев Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 577,
+    "fields": {
+        "name": "Воробьев Савва",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 578,
+    "fields": {
+        "name": "Воронин Георгий",
+        "city": 19
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 579,
+    "fields": {
+        "name": "Воронов Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 580,
+    "fields": {
+        "name": "Воронцов Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 581,
+    "fields": {
+        "name": "Гаврилов Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 582,
+    "fields": {
+        "name": "Гаврилов Игорь",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 583,
+    "fields": {
+        "name": "Гаврилов Илья",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 584,
+    "fields": {
+        "name": "Герасимов Дмитрий",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 585,
+    "fields": {
+        "name": "Герасимов Илья",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 586,
+    "fields": {
+        "name": "Герасимов Мирон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 587,
+    "fields": {
+        "name": "Герасимов Семён",
+        "city": 22
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 588,
+    "fields": {
+        "name": "Гладков Владислав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 589,
+    "fields": {
+        "name": "Глушков Давид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 590,
+    "fields": {
+        "name": "Голованов Максим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 591,
+    "fields": {
+        "name": "Голованов Пётр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 592,
+    "fields": {
+        "name": "Голубев Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 593,
+    "fields": {
+        "name": "Голубев Роман",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 594,
+    "fields": {
+        "name": "Гончаров Владимир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 595,
+    "fields": {
+        "name": "Грачев Платон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 596,
+    "fields": {
+        "name": "Греков Вячеслав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 597,
+    "fields": {
+        "name": "Григорьев Адам",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 598,
+    "fields": {
+        "name": "Григорьев Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 599,
+    "fields": {
+        "name": "Григорьев Владислав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 600,
+    "fields": {
+        "name": "Григорьев Григорий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 601,
+    "fields": {
+        "name": "Григорьев Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 602,
+    "fields": {
+        "name": "Григорьев Матвей",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 603,
+    "fields": {
+        "name": "Григорьев Филипп",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 604,
+    "fields": {
+        "name": "Гришин Арсен",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 605,
+    "fields": {
+        "name": "Громов Илья",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 606,
+    "fields": {
+        "name": "Громов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 607,
+    "fields": {
+        "name": "Гуров Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 608,
+    "fields": {
+        "name": "Гусев Богдан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 609,
+    "fields": {
+        "name": "Гусев Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 610,
+    "fields": {
+        "name": "Гусев Мирон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 611,
+    "fields": {
+        "name": "Гусев Святослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 612,
+    "fields": {
+        "name": "Гусев Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 613,
+    "fields": {
+        "name": "Данилов Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 614,
+    "fields": {
+        "name": "Данилов Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 615,
+    "fields": {
+        "name": "Данилов Дамир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 616,
+    "fields": {
+        "name": "Данилов Илья",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 617,
+    "fields": {
+        "name": "Данилов Максим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 618,
+    "fields": {
+        "name": "Дементьев Макар",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 619,
+    "fields": {
+        "name": "Демидов Марсель",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 620,
+    "fields": {
+        "name": "Демьянов Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 621,
+    "fields": {
+        "name": "Денисов Артур",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 622,
+    "fields": {
+        "name": "Денисов Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 623,
+    "fields": {
+        "name": "Дмитриев Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 624,
+    "fields": {
+        "name": "Дмитриев Максим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 625,
+    "fields": {
+        "name": "Дмитриев Марк",
+        "city": 23
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 626,
+    "fields": {
+        "name": "Добрынин Константин",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 627,
+    "fields": {
+        "name": "Добрынин Никита",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 628,
+    "fields": {
+        "name": "Дроздов Фёдор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 629,
+    "fields": {
+        "name": "Дьяков Роберт",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 630,
+    "fields": {
+        "name": "Дьяконов Иван",
+        "city": 22
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 631,
+    "fields": {
+        "name": "Евдокимов Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 632,
+    "fields": {
+        "name": "Евдокимов Евгений",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 633,
+    "fields": {
+        "name": "Егоров Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 634,
+    "fields": {
+        "name": "Емельянов Григорий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 635,
+    "fields": {
+        "name": "Еремеев Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 636,
+    "fields": {
+        "name": "Еремеев Григорий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 637,
+    "fields": {
+        "name": "Ермаков Давид",
+        "city": 20
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 638,
+    "fields": {
+        "name": "Ермилов Максим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 639,
+    "fields": {
+        "name": "Ерофеев Владимир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 640,
+    "fields": {
+        "name": "Ефимов Максим",
+        "city": 23
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 641,
+    "fields": {
+        "name": "Ефремов Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 642,
+    "fields": {
+        "name": "Ефремов Роман",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 643,
+    "fields": {
+        "name": "Жданов Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 644,
+    "fields": {
+        "name": "Журавлев Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 645,
+    "fields": {
+        "name": "Завьялов Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 646,
+    "fields": {
+        "name": "Зайцев Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 647,
+    "fields": {
+        "name": "Зайцев Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 648,
+    "fields": {
+        "name": "Зайцев Никита",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 649,
+    "fields": {
+        "name": "Зайцев Олег",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 650,
+    "fields": {
+        "name": "Зайцев Фёдор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 651,
+    "fields": {
+        "name": "Захаров Георгий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 652,
+    "fields": {
+        "name": "Захаров Глеб",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 653,
+    "fields": {
+        "name": "Захаров Игорь",
+        "city": 20
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 654,
+    "fields": {
+        "name": "Захаров Кирилл",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 655,
+    "fields": {
+        "name": "Зиновьев Мирон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 656,
+    "fields": {
+        "name": "Зорин Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 657,
+    "fields": {
+        "name": "Зорин Илья",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 658,
+    "fields": {
+        "name": "Зубков Тимур",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 659,
+    "fields": {
+        "name": "Зуев Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 660,
+    "fields": {
+        "name": "Зыков Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 661,
+    "fields": {
+        "name": "Иванов Али",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 662,
+    "fields": {
+        "name": "Иванов Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 663,
+    "fields": {
+        "name": "Иванов Антон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 664,
+    "fields": {
+        "name": "Иванов Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 665,
+    "fields": {
+        "name": "Иванов Глеб",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 666,
+    "fields": {
+        "name": "Иванов Григорий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 667,
+    "fields": {
+        "name": "Иванов Давид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 668,
+    "fields": {
+        "name": "Иванов Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 669,
+    "fields": {
+        "name": "Иванов Иван",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 670,
+    "fields": {
+        "name": "Иванов Кирилл",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 671,
+    "fields": {
+        "name": "Иванов Константин",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 672,
+    "fields": {
+        "name": "Иванов Степан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 673,
+    "fields": {
+        "name": "Иванов Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 674,
+    "fields": {
+        "name": "Игнатов Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 675,
+    "fields": {
+        "name": "Игнатов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 676,
+    "fields": {
+        "name": "Игнатьев Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 677,
+    "fields": {
+        "name": "Игнатьев Давид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 678,
+    "fields": {
+        "name": "Игнатьев Лев",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 679,
+    "fields": {
+        "name": "Измайлов Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 680,
+    "fields": {
+        "name": "Ильин Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 681,
+    "fields": {
+        "name": "Ильин Марат",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 682,
+    "fields": {
+        "name": "Ильин Фёдор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 683,
+    "fields": {
+        "name": "Исаев Дамир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 684,
+    "fields": {
+        "name": "Исаев Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 685,
+    "fields": {
+        "name": "Исаков Николай",
+        "city": 24
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 686,
+    "fields": {
+        "name": "Казаков Григорий",
+        "city": 20
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 687,
+    "fields": {
+        "name": "Казаков Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 688,
+    "fields": {
+        "name": "Казаков Фёдор",
+        "city": 20
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 689,
+    "fields": {
+        "name": "Калашников Вячеслав",
+        "city": 18
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 690,
+    "fields": {
+        "name": "Калинин Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 691,
+    "fields": {
+        "name": "Карасев Никита",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 692,
+    "fields": {
+        "name": "Карпов Кирилл",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 693,
+    "fields": {
+        "name": "Киреев Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 694,
+    "fields": {
+        "name": "Кириллов Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 695,
+    "fields": {
+        "name": "Киселев Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 696,
+    "fields": {
+        "name": "Киселев Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 697,
+    "fields": {
+        "name": "Климов Денис",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 698,
+    "fields": {
+        "name": "Климов Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 699,
+    "fields": {
+        "name": "Князев Фёдор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 700,
+    "fields": {
+        "name": "Ковалев Владимир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 701,
+    "fields": {
+        "name": "Ковалев Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 702,
+    "fields": {
+        "name": "Кожевников Роман",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 703,
+    "fields": {
+        "name": "Козлов Виктор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 704,
+    "fields": {
+        "name": "Козлов Владислав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 705,
+    "fields": {
+        "name": "Козлов Даниил",
+        "city": 22
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 706,
+    "fields": {
+        "name": "Козлов Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 707,
+    "fields": {
+        "name": "Комаров Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 708,
+    "fields": {
+        "name": "Кондратьев Тимофей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 709,
+    "fields": {
+        "name": "Кондрашов Павел",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 710,
+    "fields": {
+        "name": "Коновалов Глеб",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 711,
+    "fields": {
+        "name": "Копылов Кирилл",
+        "city": 22
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 712,
+    "fields": {
+        "name": "Корнеев Тимур",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 713,
+    "fields": {
+        "name": "Корнилов Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 714,
+    "fields": {
+        "name": "Королев Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 715,
+    "fields": {
+        "name": "Королев Савелий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 716,
+    "fields": {
+        "name": "Королев Тимофей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 717,
+    "fields": {
+        "name": "Коршунов Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 718,
+    "fields": {
+        "name": "Кочетков Мирон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 719,
+    "fields": {
+        "name": "Кочетов Роман",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 720,
+    "fields": {
+        "name": "Кравцов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 721,
+    "fields": {
+        "name": "Круглов Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 722,
+    "fields": {
+        "name": "Крылов Илья",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 723,
+    "fields": {
+        "name": "Крылов Степан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 724,
+    "fields": {
+        "name": "Крюков Богдан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 725,
+    "fields": {
+        "name": "Крюков Максим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 726,
+    "fields": {
+        "name": "Кудрявцев Егор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 727,
+    "fields": {
+        "name": "Кудрявцев Макар",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 728,
+    "fields": {
+        "name": "Кудряшов Семён",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 729,
+    "fields": {
+        "name": "Кузнецов Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 730,
+    "fields": {
+        "name": "Кузнецов Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 731,
+    "fields": {
+        "name": "Кузнецов Владимир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 732,
+    "fields": {
+        "name": "Кузнецов Егор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 733,
+    "fields": {
+        "name": "Кузнецов Максим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 734,
+    "fields": {
+        "name": "Кузнецов Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 735,
+    "fields": {
+        "name": "Кузнецов Мирон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 736,
+    "fields": {
+        "name": "Кузнецов Мирослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 737,
+    "fields": {
+        "name": "Кузнецов Никита",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 738,
+    "fields": {
+        "name": "Кузьмин Григорий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 739,
+    "fields": {
+        "name": "Кузьмин Елисей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 740,
+    "fields": {
+        "name": "Кузьмин Илья",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 741,
+    "fields": {
+        "name": "Кузьмин Никита",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 742,
+    "fields": {
+        "name": "Кулешов Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 743,
+    "fields": {
+        "name": "Кулешов Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 744,
+    "fields": {
+        "name": "Кулешов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 745,
+    "fields": {
+        "name": "Куликов Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 746,
+    "fields": {
+        "name": "Куликов Захар",
+        "city": 24
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 747,
+    "fields": {
+        "name": "Куликов Максим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 748,
+    "fields": {
+        "name": "Куприянов Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 749,
+    "fields": {
+        "name": "Курочкин Степан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 750,
+    "fields": {
+        "name": "Лавров Артемий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 751,
+    "fields": {
+        "name": "Лапин Лев",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 752,
+    "fields": {
+        "name": "Ларин Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 753,
+    "fields": {
+        "name": "Латышев Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 754,
+    "fields": {
+        "name": "Лебедев Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 755,
+    "fields": {
+        "name": "Лебедев Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 756,
+    "fields": {
+        "name": "Лебедев Егор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 757,
+    "fields": {
+        "name": "Лебедев Игорь",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 758,
+    "fields": {
+        "name": "Лебедев Илья",
+        "city": 22
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 759,
+    "fields": {
+        "name": "Лебедев Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 760,
+    "fields": {
+        "name": "Лебедев Роман",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 761,
+    "fields": {
+        "name": "Левин Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 762,
+    "fields": {
+        "name": "Левин Борис",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 763,
+    "fields": {
+        "name": "Левин Владимир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 764,
+    "fields": {
+        "name": "Леонтьев Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 765,
+    "fields": {
+        "name": "Логинов Мирон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 766,
+    "fields": {
+        "name": "Лукьянов Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 767,
+    "fields": {
+        "name": "Макаров Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 768,
+    "fields": {
+        "name": "Макаров Герман",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 769,
+    "fields": {
+        "name": "Максимов Богдан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 770,
+    "fields": {
+        "name": "Максимов Лука",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 771,
+    "fields": {
+        "name": "Максимов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 772,
+    "fields": {
+        "name": "Максимов Пётр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 773,
+    "fields": {
+        "name": "Максимов Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 774,
+    "fields": {
+        "name": "Мальцев Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 775,
+    "fields": {
+        "name": "Мальцев Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 776,
+    "fields": {
+        "name": "Мальцев Тимофей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 777,
+    "fields": {
+        "name": "Марков Родион",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 778,
+    "fields": {
+        "name": "Марков Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 779,
+    "fields": {
+        "name": "Маслов Дмитрий",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 780,
+    "fields": {
+        "name": "Матвеев Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 781,
+    "fields": {
+        "name": "Медведев Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 782,
+    "fields": {
+        "name": "Медведев Лев",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 783,
+    "fields": {
+        "name": "Медведев Мирон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 784,
+    "fields": {
+        "name": "Мельников Пётр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 785,
+    "fields": {
+        "name": "Мещеряков Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 786,
+    "fields": {
+        "name": "Мещеряков Никита",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 787,
+    "fields": {
+        "name": "Минаев Родион",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 788,
+    "fields": {
+        "name": "Миронов Богдан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 789,
+    "fields": {
+        "name": "Миронов Гордей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 790,
+    "fields": {
+        "name": "Миронов Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 791,
+    "fields": {
+        "name": "Миронов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 792,
+    "fields": {
+        "name": "Миронов Степан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 793,
+    "fields": {
+        "name": "Митрофанов Егор",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 794,
+    "fields": {
+        "name": "Митрофанов Пётр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 795,
+    "fields": {
+        "name": "Михайлов Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 796,
+    "fields": {
+        "name": "Михеев Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 797,
+    "fields": {
+        "name": "Михеев Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 798,
+    "fields": {
+        "name": "Моисеев Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 799,
+    "fields": {
+        "name": "Молчанов Лев",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 800,
+    "fields": {
+        "name": "Морозов Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 801,
+    "fields": {
+        "name": "Морозов Вячеслав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 802,
+    "fields": {
+        "name": "Нестеров Даниил",
+        "city": 20
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 803,
+    "fields": {
+        "name": "Нечаев Давид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 804,
+    "fields": {
+        "name": "Никитин Егор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 805,
+    "fields": {
+        "name": "Никитин Кирилл",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 806,
+    "fields": {
+        "name": "Никифоров Руслан",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 807,
+    "fields": {
+        "name": "Николаев Виктор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 808,
+    "fields": {
+        "name": "Николаев Григорий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 809,
+    "fields": {
+        "name": "Николаев Константин",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 810,
+    "fields": {
+        "name": "Николаев Лев",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 811,
+    "fields": {
+        "name": "Николаев Михаил",
+        "city": 22
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 812,
+    "fields": {
+        "name": "Никулин Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 813,
+    "fields": {
+        "name": "Новиков Георгий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 814,
+    "fields": {
+        "name": "Новиков Глеб",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 815,
+    "fields": {
+        "name": "Новиков Даниэль",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 816,
+    "fields": {
+        "name": "Новиков Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 817,
+    "fields": {
+        "name": "Новиков Кирилл",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 818,
+    "fields": {
+        "name": "Новиков Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 819,
+    "fields": {
+        "name": "Носков Игорь",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 820,
+    "fields": {
+        "name": "Носков Леонид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 821,
+    "fields": {
+        "name": "Овчинников Артур",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 822,
+    "fields": {
+        "name": "Овчинников Марк",
+        "city": 20
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 823,
+    "fields": {
+        "name": "Овчинников Сергей",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 824,
+    "fields": {
+        "name": "Орлов Владимир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 825,
+    "fields": {
+        "name": "Орлов Дмитрий",
+        "city": 19
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 826,
+    "fields": {
+        "name": "Орлов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 827,
+    "fields": {
+        "name": "Орлов Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 828,
+    "fields": {
+        "name": "Осипов Владислав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 829,
+    "fields": {
+        "name": "Осипов Макар",
+        "city": 24
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 830,
+    "fields": {
+        "name": "Павлов Владимир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 831,
+    "fields": {
+        "name": "Павлов Глеб",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 832,
+    "fields": {
+        "name": "Павлов Григорий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 833,
+    "fields": {
+        "name": "Павлов Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 834,
+    "fields": {
+        "name": "Павлов Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 835,
+    "fields": {
+        "name": "Павлов Лев",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 836,
+    "fields": {
+        "name": "Павлов Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 837,
+    "fields": {
+        "name": "Павлов Марсель",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 838,
+    "fields": {
+        "name": "Павлов Мирон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 839,
+    "fields": {
+        "name": "Павлов Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 840,
+    "fields": {
+        "name": "Павловский Лев",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 841,
+    "fields": {
+        "name": "Павлов Тимофей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 842,
+    "fields": {
+        "name": "Панин Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 843,
+    "fields": {
+        "name": "Панкратов Леонид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 844,
+    "fields": {
+        "name": "Панфилов Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 845,
+    "fields": {
+        "name": "Петров Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 846,
+    "fields": {
+        "name": "Петров Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 847,
+    "fields": {
+        "name": "Петров Арсений",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 848,
+    "fields": {
+        "name": "Петров Илья",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 849,
+    "fields": {
+        "name": "Петров Максим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 850,
+    "fields": {
+        "name": "Петров Платон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 851,
+    "fields": {
+        "name": "Петров Тигран",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 852,
+    "fields": {
+        "name": "Петров Тимофей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 853,
+    "fields": {
+        "name": "Петухов Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 854,
+    "fields": {
+        "name": "Пименов Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 855,
+    "fields": {
+        "name": "Пименов Фёдор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 856,
+    "fields": {
+        "name": "Платонов Тимофей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 857,
+    "fields": {
+        "name": "Плотников Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 858,
+    "fields": {
+        "name": "Пономарев Макар",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 859,
+    "fields": {
+        "name": "Попов Егор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 860,
+    "fields": {
+        "name": "Попов Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 861,
+    "fields": {
+        "name": "Попов Павел",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 862,
+    "fields": {
+        "name": "Потапов Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 863,
+    "fields": {
+        "name": "Потапов Елисей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 864,
+    "fields": {
+        "name": "Прокофьев Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 865,
+    "fields": {
+        "name": "Родионов Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 866,
+    "fields": {
+        "name": "Родионов Николай",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 867,
+    "fields": {
+        "name": "Рожков Дамир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 868,
+    "fields": {
+        "name": "Рожков Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 869,
+    "fields": {
+        "name": "Романов Артём",
+        "city": 23
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 870,
+    "fields": {
+        "name": "Романов Денис",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 871,
+    "fields": {
+        "name": "Романов Иван",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 872,
+    "fields": {
+        "name": "Романов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 873,
+    "fields": {
+        "name": "Романов Эмир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 874,
+    "fields": {
+        "name": "Рубцов Игорь",
+        "city": 22
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 875,
+    "fields": {
+        "name": "Румянцев Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 876,
+    "fields": {
+        "name": "Румянцев Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 877,
+    "fields": {
+        "name": "Рыбаков Леонид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 878,
+    "fields": {
+        "name": "Савельев Павел",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 879,
+    "fields": {
+        "name": "Савельев Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 880,
+    "fields": {
+        "name": "Самсонов Борис",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 881,
+    "fields": {
+        "name": "Самсонов Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 882,
+    "fields": {
+        "name": "Седов Арсений",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 883,
+    "fields": {
+        "name": "Селезнев Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 884,
+    "fields": {
+        "name": "Селиванов Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 885,
+    "fields": {
+        "name": "Селиванов Георгий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 886,
+    "fields": {
+        "name": "Селиванов Егор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 887,
+    "fields": {
+        "name": "Семенов Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 888,
+    "fields": {
+        "name": "Семенов Вячеслав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 889,
+    "fields": {
+        "name": "Семенов Ростислав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 890,
+    "fields": {
+        "name": "Семин Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 891,
+    "fields": {
+        "name": "Сергеев Николай",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 892,
+    "fields": {
+        "name": "Сергеев Тимофей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 893,
+    "fields": {
+        "name": "Серов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 894,
+    "fields": {
+        "name": "Сидоров Елисей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 895,
+    "fields": {
+        "name": "Синицын Матвей",
+        "city": 22
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 896,
+    "fields": {
+        "name": "Скворцов Лука",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 897,
+    "fields": {
+        "name": "Смирнов Антон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 898,
+    "fields": {
+        "name": "Смирнов Артём",
+        "city": 24
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 899,
+    "fields": {
+        "name": "Смирнов Владислав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 900,
+    "fields": {
+        "name": "Смирнов Григорий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 901,
+    "fields": {
+        "name": "Смирнов Давид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 902,
+    "fields": {
+        "name": "Смирнов Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 903,
+    "fields": {
+        "name": "Смирнов Илья",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 904,
+    "fields": {
+        "name": "Смирнов Филипп",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 905,
+    "fields": {
+        "name": "Соболев Герман",
+        "city": 20
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 906,
+    "fields": {
+        "name": "Соболев Игорь",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 907,
+    "fields": {
+        "name": "Соколов Андрей",
+        "city": 24
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 908,
+    "fields": {
+        "name": "Соколов Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 909,
+    "fields": {
+        "name": "Соколов Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 910,
+    "fields": {
+        "name": "Соколов Елисей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 911,
+    "fields": {
+        "name": "Соколов Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 912,
+    "fields": {
+        "name": "Соколов Никита",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 913,
+    "fields": {
+        "name": "Соколов Семён",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 914,
+    "fields": {
+        "name": "Соколов Тимофей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 915,
+    "fields": {
+        "name": "Соловьев Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 916,
+    "fields": {
+        "name": "Соловьев Владимир",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 917,
+    "fields": {
+        "name": "Соловьев Всеволод",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 918,
+    "fields": {
+        "name": "Соловьев Никита",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 919,
+    "fields": {
+        "name": "Сомов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 920,
+    "fields": {
+        "name": "Сорокин Адриан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 921,
+    "fields": {
+        "name": "Сорокин Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 922,
+    "fields": {
+        "name": "Сорокин Константин",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 923,
+    "fields": {
+        "name": "Сорокин Лев",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 924,
+    "fields": {
+        "name": "Сорокин Пётр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 925,
+    "fields": {
+        "name": "Спиридонов Марат",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 926,
+    "fields": {
+        "name": "Степанов Леонид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 927,
+    "fields": {
+        "name": "Степанов Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 928,
+    "fields": {
+        "name": "Субботин Артём",
+        "city": 18
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 929,
+    "fields": {
+        "name": "Суворов Герман",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 930,
+    "fields": {
+        "name": "Суворов Святослав",
+        "city": 23
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 931,
+    "fields": {
+        "name": "Сурков Борис",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 932,
+    "fields": {
+        "name": "Сухарев Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 933,
+    "fields": {
+        "name": "Тарасов Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 934,
+    "fields": {
+        "name": "Тимофеев Фёдор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 935,
+    "fields": {
+        "name": "Титов Владимир",
+        "city": 23
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 936,
+    "fields": {
+        "name": "Титов Давид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 937,
+    "fields": {
+        "name": "Титов Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 938,
+    "fields": {
+        "name": "Тихомиров Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 939,
+    "fields": {
+        "name": "Тихомиров Владимир",
+        "city": 24
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 940,
+    "fields": {
+        "name": "Тихонов Роман",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 941,
+    "fields": {
+        "name": "Тихонов Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 942,
+    "fields": {
+        "name": "Ткачев Евгений",
+        "city": 18
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 943,
+    "fields": {
+        "name": "Троицкий Лев",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 944,
+    "fields": {
+        "name": "Троицкий Никита",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 945,
+    "fields": {
+        "name": "Трофимов Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 946,
+    "fields": {
+        "name": "Трофимов Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 947,
+    "fields": {
+        "name": "Трофимов Николай",
+        "city": 21
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 948,
+    "fields": {
+        "name": "Трофимов Сергей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 949,
+    "fields": {
+        "name": "Туманов Василий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 950,
+    "fields": {
+        "name": "Федоров Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 951,
+    "fields": {
+        "name": "Федоров Егор",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 952,
+    "fields": {
+        "name": "Федосеев Николай",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 953,
+    "fields": {
+        "name": "Федотов Артём",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 954,
+    "fields": {
+        "name": "Филимонов Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 955,
+    "fields": {
+        "name": "Филиппов Антон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 956,
+    "fields": {
+        "name": "Филиппов Демид",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 957,
+    "fields": {
+        "name": "Филиппов Марк",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 958,
+    "fields": {
+        "name": "Фирсов Григорий",
+        "city": 22
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 959,
+    "fields": {
+        "name": "Фомин Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 960,
+    "fields": {
+        "name": "Фомин Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 961,
+    "fields": {
+        "name": "Фомин Эмиль",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 962,
+    "fields": {
+        "name": "Фомичев Андрей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 963,
+    "fields": {
+        "name": "Фомичев Даниил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 964,
+    "fields": {
+        "name": "Хохлов Тимур",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 965,
+    "fields": {
+        "name": "Цветков Михаил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 966,
+    "fields": {
+        "name": "Чеботарев Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 967,
+    "fields": {
+        "name": "Черепанов Кирилл",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 968,
+    "fields": {
+        "name": "Черкасов Дмитрий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 969,
+    "fields": {
+        "name": "Чернов Иван",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 970,
+    "fields": {
+        "name": "Чернов Матвей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 971,
+    "fields": {
+        "name": "Черных Ярослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 972,
+    "fields": {
+        "name": "Чернышев Святослав",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 973,
+    "fields": {
+        "name": "Черняев Никита",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 974,
+    "fields": {
+        "name": "Чистяков Мирон",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 975,
+    "fields": {
+        "name": "Чистяков Руслан",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 976,
+    "fields": {
+        "name": "Шаповалов Билал",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 977,
+    "fields": {
+        "name": "Шаповалов Евгений",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 978,
+    "fields": {
+        "name": "Широков Кирилл",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 979,
+    "fields": {
+        "name": "Шмелев Максим",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 980,
+    "fields": {
+        "name": "Шубин Анатолий",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 981,
+    "fields": {
+        "name": "Щербаков Александр",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 982,
+    "fields": {
+        "name": "Щербаков Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 983,
+    "fields": {
+        "name": "Щербаков Макар",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 984,
+    "fields": {
+        "name": "Щукин Данил",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 985,
+    "fields": {
+        "name": "Яковлев Алексей",
+        "city": 17
+    }
+},
+{
+    "model": "shooting1.shooter",
+    "pk": 986,
+    "fields": {
+        "name": "Собянин Виктор",
+        "city": 17
+    }
+}
+]
