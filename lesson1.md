@@ -51,3 +51,19 @@
 ```python
 manage.py init_lesson1
 ```
+
+Чтобы построить отчет от стрельбах, выполните следующую management команду:
+
+```python
+manage.py show_results1 results_viewer.get_results1
+```
+
+По мере продвижения по заданиям выполняйте нужные функции из shooting1.results_viewer по аналогии с предыдущей командой:
+
+```python
+manage.py show_results1 results_viewer.get_results2
+manage.py show_results1 results_viewer.get_results3
+...
+manage.py show_results1 results_viewer.get_filtered_results
+
+```
