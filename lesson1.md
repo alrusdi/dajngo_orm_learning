@@ -1,3 +1,61 @@
+Часть I. Осваиваем синтаксис
+
+Задание 1. filter и exclude в одном вызове  
+После применения миграций в Django доступна модель django.contrib.auth.models.User. Пусть нам нужно выбрать из этой модели 
+таких пользователей, которые входят в набор доверенных пользователей (is_staff), но указали email не из домена @gmail.com
+Запрос к базе данных, в этом случае, можно построить так:
+```python
+User.objects.filter(is_staff=True).exlude(email__endswith='@gmail.com')
+
+``` 
+Перепишите этот запрос используя Q и не используя exclude
+```python
+User.objects.filter(Q(is_staff=True) & ~Q(email__endswith='@gmail.com'))
+```
+
+Задание 2. Объединение по условию ИЛИ  
+Напишите запрос к модели User, в котором будут выбраны все пользователи с email из домена '@mail.ru' или '@yandex.ru'
+```python
+User.objects.filter(Q(email__endswith='@mail.ru') | Q(email__endswith='@yandex.ru'))
+```
+
+Задание 3. Группировка условий  
+Создайте такой позиционный аргумент к методу User.objects.filter, который позволит выбрать всех пользователей username 
+которых содержит слово admin или moderator, но, при этом, не явлются привелигированными (is_staff или is_superuser)
+```python
+arg = Q(Q(username__ilike='admin') | Q(username__ilike='moderator')) & ~Q(Q(is_staff=True) & Q(is_superuser=True))
+User.objects.filter(arg)
+```
+
+Задание 4. Композиция  
+Создайте такой позиционный аргумент к методу User.objects.filter, который будет искать пользователей по их username 
+по заранее неизвестному списку строк. В этом списке могут быть не полные username.
+```python
+usernames_to_find = ['Ivan', 'petr', 'sidoro']
+arg = Q()
+for name in usernames_to_find:
+    arg |= Q(username__ilike=name)
+User.objects.filter(arg)
+```
+
+Задание 5. Поиск по динамическому полю  
+Создайте такой позиционный аргумент к методу User.objects.filter, который будет искать пользователей по заранее неизвестному 
+полю, значения которого берутся из заранее неизвестного списка
+
+```python
+field_name = 'email' # но может быть и 'username' и 'first_name' и 'last_name'
+field_values = ['@gmail.com', 'admin', 'Сидоров', 'Вася']
+
+arg = Q()
+
+for value in field_values:
+    expression = {f"{field_name}__ilike": value}
+    arg |= Q(**expression)
+User.objects.filter(arg)
+```
+
+Часть II. Работаем с данными 
+
 Организация, проводящая турнир по стрельбе из пневматичекой винтовки попросила вас о помощи с программой для хранения 
 и подсчета результатов стрельб.
 
