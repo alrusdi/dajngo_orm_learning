@@ -35,8 +35,8 @@ def get_filtered_results(city_names=None, search_by_player_name=None, minimal_sc
     results.filter(**filter_query)
 
     # А версию с рефакториногом применим так:
-    # filter_query_set = filter_results_queryset_refactored(city_names, search_by_player_name, minimal_score)
-    # results.filter(filter_query_set)
+    filter_query_set = filter_results_queryset_refactored(city_names, search_by_player_name, minimal_score)
+    results.filter(filter_query_set)
 
     return results
 
@@ -69,8 +69,5 @@ def filter_results_queryset_refactored(city_names=None, search_by_player_name=No
 
     if minimal_score:
         query_set &= Q(score__gte=minimal_score)
-
-    # Посмотреть какой получился запрос на данный момент можно так:
-    print(query_set.query)
 
     return query_set
